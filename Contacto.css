@@ -1,0 +1,176 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 177px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Lexend Mega";
+  font-weight: 700;
+  margin: 60px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 60px;
+  font-style: italic;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 487px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-bottom: 20px;
+  }
+} .u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 592px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin: 0 auto 20px 20px;
+}
+
+.u-section-2 .u-layout-cell-1 {
+  min-height: 572px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 0 30px;
+}
+
+.u-section-2 .u-social-icons-1 {
+  white-space: nowrap;
+  height: 32px;
+  min-height: 16px;
+  width: 84px;
+  min-width: 52px;
+  margin: 1px auto 0;
+}
+
+.u-section-2 .u-icon-1 {
+  height: 100%;
+}
+
+.u-section-2 .u-icon-2 {
+  height: 0;
+}
+
+.u-section-2 .u-text-1 {
+  text-transform: none;
+  font-size: 2.25rem;
+  font-family: "Lexend Mega";
+  margin: 26px 0 0;
+}
+
+.u-section-2 .u-form-1 {
+  height: 386px;
+  width: 320px;
+  margin: 40px auto 0;
+}
+
+.u-section-2 .u-input-1 {
+  height: 55px;
+}
+
+.u-section-2 .u-input-2 {
+  height: 55px;
+}
+
+.u-section-2 .u-btn-1 {
+  background-image: none;
+  text-transform: none;
+  font-weight: normal;
+  letter-spacing: normal;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 563px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 472px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: 65px;
+  }
+
+  .u-section-2 .u-form-1 {
+    margin-top: 58px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 525px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 582px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-bottom: 0;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 582px;
+  }
+
+  .u-section-2 .u-social-icons-1 {
+    margin-top: 26px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 49px;
+  }
+
+  .u-section-2 .u-form-1 {
+    width: 320px;
+    margin-top: 49px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-2 .u-btn-1 {
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 1px;
+    width: 100%;
+    padding: 14px 0 15px;
+  }
+}
